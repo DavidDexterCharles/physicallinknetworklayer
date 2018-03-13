@@ -1,0 +1,252 @@
+1:
+Time:2018-03-13T01:24:20.759787
+Packet sent to Network Layer
+
+2:
+Time:2018-03-13T01:24:20.759965
+Frame Received{
+    "Address": "FF", 
+    "EndOfPacket": "01", 
+    "FCS": "40", 
+    "FrameId": "01", 
+    "Information": "68656C6C6F20776F726C6420696E20746F646179", 
+    "SeqNo": "01", 
+    "endFlag": "7E", 
+    "startFlag": "7E"
+}
+
+3:
+Time:2018-03-13T01:24:20.760234
+ACK sent to client
+00000001
+
+4:
+Time:2018-03-13T01:24:20.762333
+Packet sent to Network Layer
+
+5:
+Time:2018-03-13T01:24:20.762722
+Frame Received{
+    "Address": "FF", 
+    "EndOfPacket": "01", 
+    "FCS": "7C", 
+    "FrameId": "02", 
+    "Information": "52616E646F6D6C792067656E657261746564207465787420", 
+    "SeqNo": "01", 
+    "endFlag": "7E", 
+    "startFlag": "7E"
+}
+
+6:
+Time:2018-03-13T01:24:20.762953
+ACK sent to client
+00000001
+
+7:
+Time:2018-03-13T01:24:20.894310
+Packet sent to Network Layer
+
+8:
+Time:2018-03-13T01:24:20.894451
+Frame Received{
+    "Address": "FF", 
+    "EndOfPacket": "01", 
+    "FCS": "36", 
+    "FrameId": "03", 
+    "Information": "547279206D6F76696E6720736F6D65206F6620796F75722070726F63657373696E6720636C69656E7420736964653B2069742073686F756C642072656475636520796F7572206C6174656E63792E", 
+    "SeqNo": "01", 
+    "endFlag": "7E", 
+    "startFlag": "7E"
+}
+
+9:
+Time:2018-03-13T01:24:20.894908
+ACK sent to client
+00000001
+
+10:
+Time:2018-03-13T01:24:20.896963
+Frame Received{
+    "Address": "FF", 
+    "EndOfPacket": "00", 
+    "FCS": "05", 
+    "FrameId": "04", 
+    "Information": "4C6967687462756C62206170706561727320746F2072756E206F6E2057696E646F77732C2061732069742073746F70732066756E6374696F6E696E67", 
+    "SeqNo": "01", 
+    "endFlag": "7E", 
+    "startFlag": "7E"
+}
+
+11:
+Time:2018-03-13T01:24:20.897356
+ACK sent to client
+00000001
+
+12:
+Time:2018-03-13T01:24:20.898830
+Received frame in error from client
+
+13:
+Time:2018-03-13T01:24:26.906370
+Frame Received{
+    "Address": "FF", 
+    "EndOfPacket": "00", 
+    "FCS": "19", 
+    "FrameId": "05", 
+    "Information": "2061667465722061207365656D696E676C792072616E646F6D20706572696F64206F662074696D6520616E6420746865206F6E6C79206B6E6F776E20", 
+    "SeqNo": "02", 
+    "endFlag": "7E", 
+    "startFlag": "7E"
+}
+
+14:
+Time:2018-03-13T01:24:26.906846
+ACK sent to client
+00000010
+
+15:
+Time:2018-03-13T01:24:26.908509
+Packet sent to Network Layer
+
+16:
+Time:2018-03-13T01:24:26.908606
+Frame Received{
+    "Address": "FF", 
+    "EndOfPacket": "01", 
+    "FCS": "58", 
+    "FrameId": "06", 
+    "Information": "66697820697320746F20696E7374616C6C20667265736820636F7079", 
+    "SeqNo": "03", 
+    "endFlag": "7E", 
+    "startFlag": "7E"
+}
+
+17:
+Time:2018-03-13T01:24:26.908933
+ACK sent to client
+00000011
+
+18:
+Time:2018-03-13T01:24:26.910946
+Frame Received{
+    "Address": "FF", 
+    "EndOfPacket": "00", 
+    "FCS": "39", 
+    "FrameId": "07", 
+    "Information": "412070726F6772616D6D657220707574732074776F20676C6173736573206F6E206869732062656473696465207461626C65206265666F726520676F", 
+    "SeqNo": "01", 
+    "endFlag": "7E", 
+    "startFlag": "7E"
+}
+
+19:
+Time:2018-03-13T01:24:26.911244
+ACK sent to client
+00100001
+
+20:
+Time:2018-03-13T01:24:26.912683
+Duplicate Frames Received due to bad ACK{
+    "Address": "FF", 
+    "EndOfPacket": "00", 
+    "FCS": "39", 
+    "FrameId": "07", 
+    "Information": "412070726F6772616D6D657220707574732074776F20676C6173736573206F6E206869732062656473696465207461626C65206265666F726520676F", 
+    "SeqNo": "01", 
+    "endFlag": "7E", 
+    "startFlag": "7E"
+}
+
+21:
+Time:2018-03-13T01:24:26.912952
+ACK sent to client
+00000001
+
+22:
+Time:2018-03-13T01:24:27.095196
+Frame Received{
+    "Address": "FF", 
+    "EndOfPacket": "00", 
+    "FCS": "22", 
+    "FrameId": "08", 
+    "Information": "696E6720746F20736C6565702E20412066756C6C206F6E652C20696E2063617365206865206765747320746869727374792C20616E6420616E20656D", 
+    "SeqNo": "02", 
+    "endFlag": "7E", 
+    "startFlag": "7E"
+}
+
+23:
+Time:2018-03-13T01:24:27.095639
+ACK sent to client
+00000010
+
+24:
+Time:2018-03-13T01:24:27.097153
+Packet sent to Network Layer
+
+25:
+Time:2018-03-13T01:24:27.097362
+Frame Received{
+    "Address": "FF", 
+    "EndOfPacket": "01", 
+    "FCS": "D9", 
+    "FrameId": "09", 
+    "Information": "707479206F6E652C20696E206361736520686520646F65736EE28099742E", 
+    "SeqNo": "03", 
+    "endFlag": "7E", 
+    "startFlag": "7E"
+}
+
+26:
+Time:2018-03-13T01:24:27.097881
+ACK sent to client
+00000011
+
+27:
+Time:2018-03-13T01:24:27.099374
+Received frame in error from client
+
+28:
+Time:2018-03-13T01:24:33.107113
+Packet sent to Network Layer
+
+29:
+Time:2018-03-13T01:24:33.107305
+Frame Received{
+    "Address": "FF", 
+    "EndOfPacket": "01", 
+    "FCS": "35", 
+    "FrameId": "10", 
+    "Information": "626C61636B2070616E746572206D6F76696573206B696E646120726F636B65642067757973", 
+    "SeqNo": "01", 
+    "endFlag": "7E", 
+    "startFlag": "7E"
+}
+
+30:
+Time:2018-03-13T01:24:33.107666
+ACK sent to client
+00000001
+
+31:
+Time:2018-03-13T01:24:33.109956
+Packet sent to Network Layer
+
+32:
+Time:2018-03-13T01:24:33.110078
+Frame Received{
+    "Address": "FF", 
+    "EndOfPacket": "01", 
+    "FCS": "5C", 
+    "FrameId": "11", 
+    "Information": "3939206C6974746C65206275677320696E2074686520636F6465", 
+    "SeqNo": "01", 
+    "endFlag": "7E", 
+    "startFlag": "7E"
+}
+
+33:
+Time:2018-03-13T01:24:33.110369
+ACK sent to client
+00000001
+

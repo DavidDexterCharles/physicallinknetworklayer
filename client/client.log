@@ -1,0 +1,264 @@
+
+
+Event Count:1
+
+2018-03-13T01:24:20.758553
+Sent Packets to link layer:Packet seq#: 0
+
+
+Event Count:2
+
+2018-03-13T01:24:20.758701
+Sent Packets to link layer:Packet seq#: 1
+
+
+Event Count:3
+
+2018-03-13T01:24:20.759004
+Sent Frames to physical layerFrame seq#:40
+
+
+Event Count:4
+
+2018-03-13T01:24:20.760502
+Ack recieved Succesfully: 
+ Frame seq#:00000001
+
+
+Event Count:5
+
+2018-03-13T01:24:20.760802
+Sent Packets to link layer:Packet seq#: 1
+
+
+Event Count:6
+
+2018-03-13T01:24:20.761158
+Sent Frames to physical layerFrame seq#:7C
+
+
+Event Count:7
+
+2018-03-13T01:24:20.763483
+Ack recieved Succesfully: 
+ Frame seq#:00000001
+
+
+Event Count:8
+
+2018-03-13T01:24:20.763640
+Sent Packets to link layer:Packet seq#: 1
+
+
+Event Count:9
+
+2018-03-13T01:24:20.763976
+Sent Frames to physical layerFrame seq#:36
+
+
+Event Count:10
+
+2018-03-13T01:24:20.895199
+Ack recieved Succesfully: 
+ Frame seq#:00000001
+
+
+Event Count:11
+
+2018-03-13T01:24:20.895420
+Sent Packets to link layer:Packet seq#: 1
+
+
+Event Count:12
+
+2018-03-13T01:24:20.895842
+Sent Frames to physical layerFrame seq#:05
+
+
+Event Count:13
+
+2018-03-13T01:24:20.897689
+Ack recieved Succesfully: 
+ Frame seq#:00000001
+
+
+Event Count:14
+
+2018-03-13T01:24:20.897936
+Sent Frames to physical layerFrame seq#:19
+
+
+Event Count:15
+
+2018-03-13T01:24:26.907105
+Ack recieved Succesfully: 
+ Frame seq#:00000010
+
+
+Event Count:16
+
+2018-03-13T01:24:26.907265
+Server timed out Resending frame
+{
+    "Address": [
+        "ff"
+    ], 
+    "EndOfPacket": [
+        "00"
+    ], 
+    "FCS": [
+        "19"
+    ], 
+    "FrameId": [
+        "5"
+    ], 
+    "Information": [
+        "2061667465722061207365656D696E676C792072616E646F6D20706572696F64206F662074696D6520616E6420746865206F6E6C79206B6E6F776E20"
+    ], 
+    "SeqNo": [
+        "2"
+    ], 
+    "endFlag": [
+        "7e"
+    ], 
+    "startFlag": [
+        "7e"
+    ]
+}
+
+
+
+Event Count:17
+
+2018-03-13T01:24:26.907623
+Sent Frames to physical layerFrame seq#:58
+
+
+Event Count:18
+
+2018-03-13T01:24:26.909155
+Ack recieved Succesfully: 
+ Frame seq#:00000011
+
+
+Event Count:19
+
+2018-03-13T01:24:26.909337
+Sent Packets to link layer:Packet seq#: 1
+
+
+Event Count:20
+
+2018-03-13T01:24:26.909787
+Sent Frames to physical layerFrame seq#:39
+
+
+Event Count:21
+
+2018-03-13T01:24:26.911606
+Ack recieved in error: 
+ Frame seq#:00100001
+
+
+Event Count:22
+
+2018-03-13T01:24:26.913301
+Ack recieved Succesfully: 
+ Frame seq#:00000001
+
+
+Event Count:23
+
+2018-03-13T01:24:27.093880
+Sent Frames to physical layerFrame seq#:22
+
+
+Event Count:24
+
+2018-03-13T01:24:27.095840
+Ack recieved Succesfully: 
+ Frame seq#:00000010
+
+
+Event Count:25
+
+2018-03-13T01:24:27.096073
+Sent Frames to physical layerFrame seq#:D9
+
+
+Event Count:26
+
+2018-03-13T01:24:27.098117
+Ack recieved Succesfully: 
+ Frame seq#:00000011
+
+
+Event Count:27
+
+2018-03-13T01:24:27.098313
+Sent Packets to link layer:Packet seq#: 1
+
+
+Event Count:28
+
+2018-03-13T01:24:27.098583
+Sent Frames to physical layerFrame seq#:35
+
+
+Event Count:29
+
+2018-03-13T01:24:33.108000
+Ack recieved Succesfully: 
+ Frame seq#:00000001
+
+
+Event Count:30
+
+2018-03-13T01:24:33.108212
+Server timed out Resending frame
+{
+    "Address": [
+        "ff"
+    ], 
+    "EndOfPacket": [
+        "1"
+    ], 
+    "FCS": [
+        "35"
+    ], 
+    "FrameId": [
+        "10"
+    ], 
+    "Information": [
+        "626c61636b2070616e746572206d6f76696573206b696e646120726f636b65642067757973"
+    ], 
+    "SeqNo": [
+        "1"
+    ], 
+    "endFlag": [
+        "7e"
+    ], 
+    "startFlag": [
+        "7e"
+    ]
+}
+
+
+
+Event Count:31
+
+2018-03-13T01:24:33.108478
+Sent Packets to link layer:Packet seq#: 1
+
+
+Event Count:32
+
+2018-03-13T01:24:33.108773
+Sent Frames to physical layerFrame seq#:5C
+
+
+Event Count:33
+
+2018-03-13T01:24:33.110570
+Ack recieved Succesfully: 
+ Frame seq#:00000001
